@@ -1,0 +1,25 @@
+{
+  "name": "service_motor_backend",
+  "version": "1.0.0",
+  "description": "Backend untuk aplikasi service_motor ppl kelompok 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkhdanFirdaus/service_motor_backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mysql",
+    "restapi"
+  ],
+  "author": "Kelompok4-PPL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkhdanFirdaus/service_motor_backend/issues"
+  },
+  "homepage": "https://github.com/AkhdanFirdaus/service_motor_backend#readme"
+}
